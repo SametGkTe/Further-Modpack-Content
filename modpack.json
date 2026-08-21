@@ -1,0 +1,23 @@
+{
+  "packId": "further",
+  "displayName": "Further Modpack",
+  "packVersion": "1.1.0",
+  "engineVersion": "1.6.2",
+  "repo": "SametGkTe/Further-Modpack-Content",
+  "releaseTag": "mods",
+  "updatedAt": "2026-08-21 03:08",
+  "modCount": 1,
+  "totalSizeBytes": 5468428,
+  "mods": [
+    {
+      "folder": "blammed noimix",
+      "version": "1.0.0",
+      "zipName": "blammed noimix-v1.0.0.zip",
+      "url": "https://github.com/SametGkTe/Further-Modpack-Content/releases/download/mods/blammed%20noimix-v1.0.0.zip",
+      "sizeBytes": 5468428,
+      "sha256": "925787dc524a2116b18cb3f2c467dbac465f0213f343aefe00ae7865a48a95ae",
+      "hash": "120a84bda0c37547771862033c2849a3159586653bdd79552079dc2360baa31f",
+      "removed": false
+    }
+  ]
+}
